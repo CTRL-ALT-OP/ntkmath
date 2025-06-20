@@ -4,3 +4,7 @@
 !*.py
 !*.md
 !.gitignore
+__pycache__/
+.benchmarks/
+.dist
+.pytest_cache/
